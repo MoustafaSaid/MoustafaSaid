@@ -3,10 +3,10 @@
 # Hi, I'm Moustafa Said Salha 👋
 
 <a href="https://github.com/MoustafaSaid">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=02569B&center=true&vCenter=true&width=700&height=50&lines=Flutter+Developer;Mobile+Engineer+%E2%80%94+iOS+%26+Android;Dart+%2B+TypeScript+%2B+Python;I+ship+apps%2C+not+demos" alt="Flutter Developer, Mobile Engineer, Dart TypeScript Python" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=02569B&center=true&vCenter=true&width=760&height=50&lines=Full-Stack+Developer;Flutter+%C2%B7+React+%C2%B7+Node.js;Web+apps%2C+backends+and+the+mobile+apps+on+top;Arabic-first+products%2C+shipped+end+to+end" alt="Full-stack developer — Flutter, React, Node.js" />
 </a>
 
-**Flutter developer based in Egypt.** I build cross-platform apps end to end — from the UI down to the API behind it — with a bias for clean architecture and code that is still easy to change a year from now.
+**Full-stack developer based in Egypt.** I started in mobile and never stopped at the client — today I build the whole product: React front ends, Node/Express and FastAPI backends, PostgreSQL data models, and the iOS/Android apps that sit on top of them.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moustafasalha)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/moustafasalha)
@@ -21,13 +21,14 @@
 
 ## 🏠 About me
 
-I've spent the last few years shipping production mobile apps — retail, e-commerce, auctions and co-op supermarket apps, all live on the App Store — and lately I've been going deeper on the backend and web side of the same products.
+I build production software end to end. On the web that means Arabic-first React applications with a real CMS and CRM behind them; on mobile it means Flutter and native iOS apps that are live on the App Store. Most recently I shipped a complete real-estate platform — marketing site, sales CRM and analytics — for a developer in Saudi Arabia.
 
+- 🏢 **Shipped [wabl.sa](https://wabl.sa)** — an Arabic-first real-estate platform: marketing site, lead capture, sales CRM, automated visit confirmations and marketing analytics.
 - 🔭 **Currently building** a Fantasy Premier League decision-support platform (Flutter + NestJS + PostgreSQL monorepo) and a scroll-driven 3D portfolio in React Three Fiber.
-- 📱 **Shipped to the App Store** — three production iOS apps for clients in Kuwait, in English and Arabic.
-- 🌱 **Exploring** advanced Flutter architecture, native iOS, and 3D/WebGL experiences on the web.
-- 💬 **Ask me about** Flutter, state management, clean architecture, and getting an app from idea to store review.
-- 🤝 **Open to** mobile engineering roles and freelance work.
+- 📱 **Three production iOS apps** live on the App Store for clients in Kuwait, in English and Arabic.
+- 🧰 **Comfortable across the stack** — Flutter/Dart, TypeScript/React, Node & Express, Python/FastAPI, PostgreSQL, Notion as a CMS, Firebase and Docker.
+- 🌱 **Exploring** 3D/WebGL on the web and AI-assisted reporting on top of product data.
+- 🤝 **Open to** full-stack and mobile engineering roles, plus freelance product work.
 - 📫 **Reach me at** [moustafasaidsalha@gmail.com](mailto:moustafasaidsalha@gmail.com).
 
 ---
@@ -43,26 +44,35 @@ I've spent the last few years shipping production mobile apps — retail, e-comm
 <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
 <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
 
+**Frontend**
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+<img src="https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white" alt="Radix UI" />
+<img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
+
 **Backend & data**
 
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
+
+**Platform & tooling**
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-
-**Web & 3D**
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-
-**Tooling**
-
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/Notion%20API-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion API" />
+<img src="https://img.shields.io/badge/PostHog-000000?style=flat-square&logo=posthog&logoColor=white" alt="PostHog" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" />
@@ -71,6 +81,31 @@ I've spent the last few years shipping production mobile apps — retail, e-comm
 ---
 
 ## 🏗 Featured work
+
+### 🏢 Wabl — real-estate platform for a Saudi developer
+
+<a href="https://wabl.sa">
+  <img src="assets/wabl-sa.jpg" width="100%" alt="The Wabl real-estate website — Arabic RTL homepage" />
+</a>
+
+An Arabic-first platform for **وبل العقارية (Wabl)**, a residential developer in Saudi Arabia. Not a brochure site — the website, the sales CRM and the marketing data all run on the same pipeline.
+
+| Piece | What it does |
+|:---|:---|
+| **Marketing site** | Project and unit catalogue with filters, galleries, MapLibre location maps, amenities and SEO-ready project/unit pages — fully RTL Arabic. |
+| **Lead capture** | Four entry points (interest, brochure, visit, contact) that create structured, phone-deduplicated leads with the exact project and unit the buyer was viewing. |
+| **Sales CRM** | Arabic pipeline from *new* to *won/lost*, tasks and follow-ups, scheduled visits, request inboxes, and project/unit inventory with an audit trail. |
+| **Automation** | Confirmed visits trigger Arabic SMS/WhatsApp confirmations through Hatif, with assignment and follow-up tasks created automatically. |
+| **Analytics** | PostHog product tracking plus a GTM dataLayer wired to Meta, Snapchat, TikTok and Google, so attribution follows the money. |
+| **Content** | Projects, units, pricing and availability live in Notion — the marketing team updates content without a deploy. |
+
+**Stack:** React 18 · TypeScript · Vite · Tailwind CSS · shadcn/ui · Framer Motion · TanStack Query · Express · Notion API · MapLibre · PostHog
+
+<sub>Also built the internal **Wabl analytics dashboard** — React + Express + PostgreSQL/Drizzle, Firebase Auth, Gemini-generated reports and Notion sync (private).</sub>
+
+<p>
+  <a href="https://wabl.sa"><img src="https://img.shields.io/badge/Visit%20wabl.sa-8B5E34?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit wabl.sa" /></a>
+</p>
 
 ### 📱 Live on the App Store
 
@@ -114,7 +149,7 @@ I've spent the last few years shipping production mobile apps — retail, e-comm
 
 ### 📞 Let's build something
 
-Got a Flutter app that needs shipping, or a mobile product that needs building from scratch?
+Need a product built end to end — a web app with a CRM behind it, or a mobile app that has to actually ship?
 
 [![Email me](https://img.shields.io/badge/Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moustafasaidsalha@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moustafasalha)
