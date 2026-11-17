@@ -9,6 +9,7 @@
 **Full-stack developer based in Egypt.** I started in mobile and never stopped at the client — today I build the whole product: React front ends, Node/Express and FastAPI backends, PostgreSQL data models, and the iOS/Android apps that sit on top of them.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moustafasalha)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5A36?style=for-the-badge&logo=googlechrome&logoColor=white)](https://moustafasaid.github.io)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/moustafasalha)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moustafasaidsalha@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MoustafaSaid?tab=repositories)
@@ -24,7 +25,7 @@
 I build production software end to end. On the web that means Arabic-first React applications with a real CMS and CRM behind them; on mobile it means Flutter and native iOS apps that are live on the App Store. Most recently I shipped a complete real-estate platform — marketing site, sales CRM and analytics — for a developer in Saudi Arabia.
 
 - 🏢 **Shipped [wabl.sa](https://wabl.sa)** — an Arabic-first real-estate platform: marketing site, lead capture, sales CRM, automated visit confirmations and marketing analytics.
-- 🔭 **Currently building** a Fantasy Premier League decision-support platform (Flutter + NestJS + PostgreSQL monorepo) and a scroll-driven 3D portfolio in React Three Fiber.
+- 🔭 **Currently building** a Fantasy Premier League decision-support platform (Flutter + NestJS + PostgreSQL monorepo) — and my [portfolio](https://moustafasaid.github.io) is a scroll film through the whole stack.
 - 📱 **Three production iOS apps** live on the App Store for clients in Kuwait, in English and Arabic.
 - 🧰 **Comfortable across the stack** — Flutter/Dart, TypeScript/React, Node & Express, Python/FastAPI, PostgreSQL, Notion as a CMS, Firebase and Docker.
 - 🌱 **Exploring** 3D/WebGL on the web and AI-assisted reporting on top of product data.
